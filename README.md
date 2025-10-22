@@ -1,16 +1,35 @@
-## Hi there 👋
+# 📊 Hi, I'm [Md. Emran Hossain] 👋
 
-<!--
-**Emran12/Emran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Turning Data into Actionable Insights
 
-Here are some ideas to get you started:
+I'm a passionate data analyst focused on leveraging **Python**, **SQL**, and **BI Tools** to solve complex business problems and drive data-informed decisions. I thrive on exploring large datasets, uncovering hidden patterns, and communicating compelling data stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Data Toolkit
+
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Programming** | Python (Pandas, NumPy, Scikit-learn), R, SQL |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
+| **Statistical Analysis** | Regression, Time Series, Hypothesis Testing |
+| **Cloud/Version Control** | Google Cloud Platform (GCP), Git/GitHub |
+
+---
+
+## ✨ Featured Projects
+
+These are some of my favorite projects that demonstrate the full data analysis lifecycle. Check out the pinned repositories below!
+
+* **Project 1:** [Project Name] - Focus on **Data Cleaning** and **EDA**.
+* **Project 2:** [Project Name] - Demonstrated use of **Advanced SQL** and **Tableau Dashboarding**.
+* **Project 3:** [Project Name] - Applied **Classification** or **Regression** models.
+
+---
+
+## 🚀 Let's Connect!
+
+* **LinkedIn:** [https://www.linkedin.com/in/emran-hossain95/]
+* **Portfolio/Website:** [Link to your personal portfolio, if you have one]
+* **Email:** [Your Professional Email Address]
