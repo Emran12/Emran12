@@ -32,4 +32,4 @@ These are some of my favorite projects that demonstrate the full data analysis l
 
 * **LinkedIn:** [https://www.linkedin.com/in/emran-hossain95/]
 * **Portfolio/Website:** [Link to your personal portfolio, if you have one]
-* **Email:** [Your Professional Email Address]
+* **Email:** [emran.hossain0695@gmail.com]
