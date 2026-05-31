@@ -1,35 +1,68 @@
-# 📊 Hi, I'm [Md. Emran Hossain] 👋
+# 👋 Hi, I'm Md. Emran Hossain
 
-### Data Analyst | Turning Data into Actionable Insights
+## Web Scraping & Automation Specialist | Workflow Engineer
 
-I'm a passionate data analyst focused on leveraging **Python**, **SQL**, and **BI Tools** to solve complex business problems and drive data-informed decisions. I thrive on exploring large datasets, uncovering hidden patterns, and communicating compelling data stories.
+I build reliable, high-performance web scraping and browser automation systems that help businesses eliminate manual work, monitor competitors, and scale their data collection. 
 
----
-
-## 🛠️ My Data Toolkit
-
-| Category | Tools & Libraries |
-| :--- | :--- |
-| **Programming** | Python (Pandas, NumPy, Scikit-learn), R, SQL |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Statistical Analysis** | Regression, Time Series, Hypothesis Testing |
-| **Cloud/Version Control** | Google Cloud Platform (GCP), Git/GitHub |
+From bypassing complex anti-bot systems to building seamless cloud automation pipelines, I turn unstructured web data into organized, actionable business assets.
 
 ---
 
-## ✨ Featured Projects
+## 🔎 Services I Offer
 
-These are some of my favorite projects that demonstrate the full data analysis lifecycle. Check out the pinned repositories below!
-
-* **Project 1:** [Project Name] - Focus on **Data Cleaning** and **EDA**.
-* **Project 2:** [Project Name] - Demonstrated use of **Advanced SQL** and **Tableau Dashboarding**.
-* **Project 3:** [Project Name] - Applied **Classification** or **Regression** models.
+- **Advanced Web Scraping:** E-commerce catalogs, dynamic JavaScript-heavy sites, and real estate/job directories.
+- **Competitor & Price Monitoring:** Automated daily tracking with scheduled delta reports.
+- **Lead Generation Pipelines:** Bulk extraction of B2B contact info, LinkedIn data, and business directory mapping.
+- **Workflow & Browser Automation:** Form auto-filling, session handling, and repetitive task optimization.
+- **Cloud & Tool Integration:** Connecting scrapers to CRMs, Google Sheets, or webhooks for real-time updates.
+- **Clean Data Delivery:** Custom formatting in CSV, Excel, JSON, or direct database injection (SQLite/PostgreSQL).
 
 ---
 
-## 🚀 Let's Connect!
+## 🛠️ My Toolkit
 
-* **LinkedIn:** [https://www.linkedin.com/in/emran-hossain95/]
-* **Portfolio/Website:** [Link to your personal portfolio, if you have one]
-* **Email:** [emran.hossain0695@gmail.com]
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **Programming** | Python, JavaScript |
+| **Web Scraping & Anti-Bot** | BeautifulSoup, Requests, Scrapy, 2Captcha handling |
+| **Browser Automation** | Selenium, Playwright |
+| **Workflow Automation** | n8n, Google Workspace Integration (Drive/Sheets API) |
+| **Data Processing & Storage** | Pandas, NumPy, SQLite, JSON, CSV/Excel |
+| **DevOps & Version Control** | Git, GitHub, Cron Jobs / Cloud Scheduling |
+
+---
+
+## 📦 What You Can Expect
+
+✅ **Production-Grade Data:** 100% clean, structured, and deduplicated datasets.
+✅ **Resilient Scripts:** Exception handling and anti-fingerprinting to ensure long-term stability.
+✅ **Turnkey Automation:** Fully scheduled scripts—set it and forget it.
+✅ **Transparent Communication:** Regular progress updates and clear documentation.
+✅ **Post-Launch Support:** Maintenance and adaptation to target website structure changes.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Product Scraper & Monitoring System
+* **The Solution:** Built a robust Scrapy and Selenium-based framework to extract catalog data from dynamic e-commerce platforms. 
+* **The Impact:** Implemented daily scheduled runs to track competitor price fluctuations, automatically generating structured delta reports. Handles pagination, dynamic loading, and proxy rotation seamlessly.
+
+### 🎯 Automated B2B Lead Generation Pipeline
+* **The Solution:** Developed a targeted scraping system utilizing Playwright to extract business details, map directories, and gather contact information.
+* **The Impact:** Delivered clean, ready-to-use lead sheets directly synced to data storage, bypassing rate limits through intelligent request throttling.
+
+### 🤖 Intelligent Workflow & Browser Automation (n8n & Selenium)
+* **The Solution:** Created end-to-end automation scripts to replace tedious manual data entry. Integrated Python scrapers with **n8n workflows** to automatically process data files and update master spreadsheets in real-time.
+* **The Impact:** Eliminated manual entry errors and saved client teams hours of repetitive administrative tasks weekly.
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new scraping, data extraction, or workflow automation challenges.
+
+🌐 **Portfolio:** [emran-hossain-portfolio.netlify.app](https://emran-hossain-portfolio.netlify.app/)
+💼 **GitHub:** [github.com/Emran12](https://github.com/Emran12)
+
+*Let’s automate your data bottleneck so you can focus on scaling your business.*
